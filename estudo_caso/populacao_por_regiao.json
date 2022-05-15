@@ -1,0 +1,27 @@
+[
+	{
+		"nome": "Sudeste",
+		"populacao":89632912,
+		"percentual":42.04
+	}, 
+	{
+		"nome": "Nordeste",
+		"populacao":57667842,
+		"percentual":27.09
+	}, 
+	{
+		"nome": "Sul",
+		"populacao":30402587,
+		"percentual":14.26
+	}, 
+	{
+		"nome": "Norte",
+		"populacao":18906962,
+		"percentual":8.82
+	}, 
+	{
+		"nome": "Centro-Oeste",
+		"populacao":16707336,
+		"percentual":7.79
+	}
+]
