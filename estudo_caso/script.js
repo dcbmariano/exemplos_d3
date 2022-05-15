@@ -1,7 +1,7 @@
+/* Usa D3.js para criar um gráfico de barras da população brasileira por estado e por região */
 // 1) Lendo dados ------------------------------------------------
 // JSON
 const regioes = d3.json("populacao_por_regiao.json");
-
 // CSV
 const estados = d3.csv("populacao_por_estado.csv"); 
 
